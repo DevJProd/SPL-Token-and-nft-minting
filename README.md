@@ -1,2 +1,2 @@
-# SPL Token & Nft mint Challenges
+# SPL Token & Nft Minting
 
